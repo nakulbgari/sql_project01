@@ -8,4 +8,4 @@ This project is a SQL-based data analysis and management system designed to [bri
 ✔️ CRUD operations (Create, Read, Update, Delete)
 ✔️ Complex SQL queries (Joins, Aggregations, Subqueries)
 ✔️ Stored procedures & triggers
-✔️ Data visualization (if applicable)
+✔️ Data visualization 
